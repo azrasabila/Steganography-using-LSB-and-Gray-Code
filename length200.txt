@@ -1,0 +1,1 @@
+Now subtract the new Y values (i.e. \hat{Y}_i) from the original Y values. Thus, found values are the error terms. It is also known as the vertical distance of the given point from the regression line

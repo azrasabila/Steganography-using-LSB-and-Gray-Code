@@ -1,0 +1,1 @@
+Ini text nyobain nilai PSNR dan MSE untuk gambar yang diinputkan menggunakan teks dengan Panjang100
